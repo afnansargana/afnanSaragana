@@ -27,6 +27,9 @@
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 ## ⚡ `01` — WHO AM I?
+<p align="center">
+  <img src="./profile.jpg" width="200" alt="Afnan Sargana's Profile Photo" />
+</p>
 
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnansargana&layout=donut&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F0FF&text_color=FFFFFF" alt="Most used programming languages" />
 
