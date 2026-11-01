@@ -1,3 +1,4 @@
+<img width="1105" height="1424" alt="My pic png" src="https://github.com/user-attachments/assets/ef7ce2ad-0fb4-417f-8ed5-bab8c02c01ca" />
 <!-- ═══════════════ NEON DEVELOPER PROFILE ═══════════════ -->
 
 <div align="center">
