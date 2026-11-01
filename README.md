@@ -1,4 +1,3 @@
-<img width="1105" height="1424" alt="My pic png" src="https://github.com/user-attachments/assets/ef7ce2ad-0fb4-417f-8ed5-bab8c02c01ca" />
 <!-- ═══════════════ NEON DEVELOPER PROFILE ═══════════════ -->
 
 <div align="center">
@@ -28,6 +27,7 @@
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 ## ⚡ `01` — WHO AM I?
+
 <div align="center">
 
   <img
@@ -50,8 +50,6 @@
   *Front-End Developer | IUB Student*
 
 </div>
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnansargana&layout=donut&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F0FF&text_color=FFFFFF" alt="Most used programming languages" />
 
 Hey there! I'm **Afnan Sargana** 👋
 
