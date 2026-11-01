@@ -28,9 +28,28 @@
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 ## ⚡ `01` — WHO AM I?
-<p align="center">
-  <img src="D:\My.pic.png.jpeg" width="200" alt="Afnan Sargana's Profile Photo" />
-</p>
+<div align="center">
+
+  <img
+    src="https://github.com/user-attachments/assets/ef7ce2ad-0fb4-417f-8ed5-bab8c02c01ca"
+    width="165"
+    alt="Afnan Sargana"
+  />
+
+  <br/>
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=350&height=35&lines=HELLO%2C+I'M+AFNAN;FRONT-END+DEVELOPER;ALWAYS+LEARNING+%F0%9F%9A%80"
+    alt="Animated profile introduction"
+  />
+
+  <br/>
+
+  **Muhammad Afnan Sargana**
+
+  *Front-End Developer | IUB Student*
+
+</div>
 
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnansargana&layout=donut&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F0FF&text_color=FFFFFF" alt="Most used programming languages" />
 
